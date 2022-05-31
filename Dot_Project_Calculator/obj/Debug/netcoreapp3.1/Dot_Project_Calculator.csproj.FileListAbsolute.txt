@@ -1,0 +1,14 @@
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Project_Calculator\bin\Debug\netcoreapp3.1\Dot_Project_Calculator.exe
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Project_Calculator\bin\Debug\netcoreapp3.1\Dot_Project_Calculator.deps.json
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Project_Calculator\bin\Debug\netcoreapp3.1\Dot_Project_Calculator.runtimeconfig.json
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Project_Calculator\bin\Debug\netcoreapp3.1\Dot_Project_Calculator.runtimeconfig.dev.json
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Project_Calculator\bin\Debug\netcoreapp3.1\Dot_Project_Calculator.dll
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Project_Calculator\bin\Debug\netcoreapp3.1\Dot_Project_Calculator.pdb
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Project_Calculator\obj\Debug\netcoreapp3.1\Dot_Project_Calculator.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Project_Calculator\obj\Debug\netcoreapp3.1\Dot_Project_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Project_Calculator\obj\Debug\netcoreapp3.1\Dot_Project_Calculator.AssemblyInfoInputs.cache
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Project_Calculator\obj\Debug\netcoreapp3.1\Dot_Project_Calculator.AssemblyInfo.cs
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Project_Calculator\obj\Debug\netcoreapp3.1\Dot_Project_Calculator.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Project_Calculator\obj\Debug\netcoreapp3.1\Dot_Project_Calculator.dll
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Project_Calculator\obj\Debug\netcoreapp3.1\Dot_Project_Calculator.pdb
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Project_Calculator\obj\Debug\netcoreapp3.1\Dot_Project_Calculator.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Net_Project_1\bin\Debug\netcoreapp3.1\Dot_Net_Project_1.exe
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Net_Project_1\bin\Debug\netcoreapp3.1\Dot_Net_Project_1.deps.json
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Net_Project_1\bin\Debug\netcoreapp3.1\Dot_Net_Project_1.runtimeconfig.json
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Net_Project_1\bin\Debug\netcoreapp3.1\Dot_Net_Project_1.runtimeconfig.dev.json
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Net_Project_1\bin\Debug\netcoreapp3.1\Dot_Net_Project_1.dll
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Net_Project_1\bin\Debug\netcoreapp3.1\Dot_Net_Project_1.pdb
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Net_Project_1\obj\Debug\netcoreapp3.1\Dot_Net_Project_1.csproj.AssemblyReference.cache
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Net_Project_1\obj\Debug\netcoreapp3.1\Dot_Net_Project_1.GeneratedMSBuildEditorConfig.editorconfig
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Net_Project_1\obj\Debug\netcoreapp3.1\Dot_Net_Project_1.AssemblyInfoInputs.cache
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Net_Project_1\obj\Debug\netcoreapp3.1\Dot_Net_Project_1.AssemblyInfo.cs
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Net_Project_1\obj\Debug\netcoreapp3.1\Dot_Net_Project_1.csproj.CoreCompileInputs.cache
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Net_Project_1\obj\Debug\netcoreapp3.1\Dot_Net_Project_1.dll
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Net_Project_1\obj\Debug\netcoreapp3.1\Dot_Net_Project_1.pdb
+F:\Web_Development\Web Developer\Learn_Csharp\Dot_Net_Project_1\obj\Debug\netcoreapp3.1\Dot_Net_Project_1.genruntimeconfig.cache
