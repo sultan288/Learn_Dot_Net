@@ -1,4 +1,5 @@
 ﻿body {
+    /*padding-top: 82px;*/
 }
 
 :root{
@@ -8,7 +9,7 @@
     --black: #000000;
 }
 
-.slider-img{
+.slider-img {
     height: 500px;
     width: auto;
 }
@@ -27,4 +28,21 @@
 .card-img{
     height: 320px;
     width: auto;
+}
+.topper {
+    position: fixed;
+    height: 50px;
+    width: 50px;
+    border-radius: 35%;
+    background-color: #000000;
+    color: aqua;
+    bottom: 50px;
+    right: 50px;
+    z-index: 2;
+}
+.fa-solid, .fas {
+    font-family: "Font Awesome 6 Free";
+    font-weight: 900;
+    padding: 14px 10px 10px 16px;
+    font-size: 23px;
 }
