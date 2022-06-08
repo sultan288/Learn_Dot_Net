@@ -1,0 +1,17 @@
+﻿body {
+}
+
+table{
+    border: 1px solid black;
+}
+
+input.btn.btn-primary, input.btn.btn-danger {
+    height: 67px;
+    width: 68px;
+    border-radius: 0;
+}
+.input-element {
+    background: #1e1c1c !important;
+    color: #f7f0f0 !important;
+    padding: 29px 12px;
+}
